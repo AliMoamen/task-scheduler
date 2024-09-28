@@ -38,7 +38,7 @@ To run this project locally, you will need to have Python and Jupyter Notebook i
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/task-scheduler.git
+    git clone https://github.com/AliMoamen/task-scheduler.git
     ```
 
 2. Install the required packages using `pip`:
